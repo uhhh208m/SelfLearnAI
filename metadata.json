@@ -1,0 +1,6 @@
+{
+  "name": "SelfLearn AI - Đánh Giá Năng Lực Tự Học",
+  "description": "Hệ thống hỗ trợ đánh giá và phát triển năng lực tự học của sinh viên trong môi trường có AI hỗ trợ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
